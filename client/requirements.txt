@@ -1,0 +1,6 @@
+gTTS
+pyttsx3
+playsound
+requests
+speechrecognition
+pyaudio
